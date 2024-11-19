@@ -14,7 +14,7 @@ FEID includes 26,238 training samples sourced from six datasets: **CK+**, **RAF-
 
 FEAB, sourced from the same six datasets, contains 3,035 test samples independently selected to ensure generalizability, covering diverse emotional descriptions and AU occurrences.
 
-Download the [datasets](hhttps://drive.google.com/drive/folders/1zaKqDFNuQLkWHFyL27CVmjXgmyyaqWG2?usp=sharing), categorized by the original databases, where *train* represents **The FEID** and *test* represents **The FEAB**.
+Download the [datasets](https://drive.google.com/drive/folders/1zaKqDFNuQLkWHFyL27CVmjXgmyyaqWG2?usp=sharing), categorized by the original databases, where *train* represents **The FEID** and *test* represents **The FEAB**.
 
 ### Generated Instruction Data
 
