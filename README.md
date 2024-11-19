@@ -14,7 +14,7 @@ FEID includes 26,238 training samples sourced from six datasets: **CK+**, **RAF-
 
 FEAB, sourced from the same six datasets, contains 3,035 test samples independently selected to ensure generalizability, covering diverse emotional descriptions and AU occurrences.
 
-Download the [datasets](https://drive.google.com/drive/folders/1zaKqDFNuQLkWHFyL27CVmjXgmyyaqWG2?usp=drive_link), categorized by the original databases, where *train* represents **The FEID** and *test* represents **The FEAB**.
+Download the [datasets](hhttps://drive.google.com/drive/folders/1zaKqDFNuQLkWHFyL27CVmjXgmyyaqWG2?usp=sharing), categorized by the original databases, where *train* represents **The FEID** and *test* represents **The FEAB**.
 
 ### Generated Instruction Data
 
@@ -22,5 +22,5 @@ We leverage GPT-4o and design an **uncertainty-aware self-verification** method 
 
 By embedding prior knowledge and estimating epistemic uncertainties through adaptive Monte Carlo sampling, we generate reliable emotion descriptions, including discrete emotion categories, valence/arousal values, and AU activations. This approach enables **high-quality instruction data generation** without extra manual annotations.
 
-Download the [instruction data annotations](https://drive.google.com/drive/folders/1-Wmw_zjUv9JLAlYykg-DeWyGfYSv4LaO?usp=drive_link), categorized by the original databases.
+Download the [instruction data annotations](https://drive.google.com/drive/folders/1-Wmw_zjUv9JLAlYykg-DeWyGfYSv4LaO?usp=sharing), categorized by the original databases.
 
